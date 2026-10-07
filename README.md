@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/PG178/DAA-leetcodes/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PG178/DAA-leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PG178/DAA-leetcodes/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/PG178/DAA-leetcodes/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PG178/DAA-leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PG178/DAA-leetcodes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PG178/DAA-leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/PG178/DAA-leetcodes/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/PG178/DAA-leetcodes/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/PG178/DAA-leetcodes/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/PG178/DAA-leetcodes/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |

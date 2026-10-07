@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/PG178/DAA-leetcodes/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/PG178/DAA-leetcodes/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PG178/DAA-leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PG178/DAA-leetcodes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/PG178/DAA-leetcodes/tree/master/0169-majority-element) |
@@ -67,8 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/PG178/DAA-leetcodes/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/PG178/DAA-leetcodes/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/PG178/DAA-leetcodes/tree/master/0013-roman-to-integer) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/PG178/DAA-leetcodes/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/PG178/DAA-leetcodes/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

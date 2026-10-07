@@ -58,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/PG178/DAA-leetcodes/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/PG178/DAA-leetcodes/tree/master/0191-number-of-1-bits) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PG178/DAA-leetcodes/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PG178/DAA-leetcodes/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/PG178/DAA-leetcodes/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

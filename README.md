@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/PG178/DAA-leetcodes/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/PG178/DAA-leetcodes/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/PG178/DAA-leetcodes/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/PG178/DAA-leetcodes/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/PG178/DAA-leetcodes/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PG178/DAA-leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PG178/DAA-leetcodes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/PG178/DAA-leetcodes/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/PG178/DAA-leetcodes/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PG178/DAA-leetcodes/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/PG178/DAA-leetcodes/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PG178/DAA-leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PG178/DAA-leetcodes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/PG178/DAA-leetcodes/tree/master/0169-majority-element) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/PG178/DAA-leetcodes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/PG178/DAA-leetcodes/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/PG178/DAA-leetcodes/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/PG178/DAA-leetcodes/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/PG178/DAA-leetcodes/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PG178/DAA-leetcodes/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/PG178/DAA-leetcodes/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/PG178/DAA-leetcodes/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/PG178/DAA-leetcodes/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/PG178/DAA-leetcodes/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |

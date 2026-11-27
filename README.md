@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/PG178/DAA-leetcodes/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PG178/DAA-leetcodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PG178/DAA-leetcodes/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/PG178/DAA-leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/PG178/DAA-leetcodes/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PG178/DAA-leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PG178/DAA-leetcodes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/PG178/DAA-leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/PG178/DAA-leetcodes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Tree
 |  |

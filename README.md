@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/PG178/DAA-leetcodes/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/PG178/DAA-leetcodes/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/PG178/DAA-leetcodes/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/PG178/DAA-leetcodes/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/PG178/DAA-leetcodes/tree/master/0066-plus-one) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PG178/DAA-leetcodes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PG178/DAA-leetcodes/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/PG178/DAA-leetcodes/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/PG178/DAA-leetcodes/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/PG178/DAA-leetcodes/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/PG178/DAA-leetcodes/tree/master/0040-combination-sum-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
